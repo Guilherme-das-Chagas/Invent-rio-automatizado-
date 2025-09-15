@@ -1,0 +1,3 @@
+[14/09/2025 01:01:36] Saída de 1 unidade(s) no produto 'HDMI'
+[14/09/2025 01:07:48] Saída de 2 unidade(s) no produto 'HDMI' | Quantidade antes: 4.0 | Movimentado: 2 | Quantidade final: 2.0
+[14/09/2025 01:09:39] Saída de 1 unidade(s) no produto 'HDMI' | Quantidade antes: 2 | Movimentado: 1 | Quantidade final: 1
